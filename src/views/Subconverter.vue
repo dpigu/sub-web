@@ -265,6 +265,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
+	  { value: "http://toss.tk/sub?" },
           { value: "https://sub-beta.now.sh/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
